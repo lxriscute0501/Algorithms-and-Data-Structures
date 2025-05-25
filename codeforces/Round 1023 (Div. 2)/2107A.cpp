@@ -1,7 +1,5 @@
 //800
-#include <iostream>
-#include <vector>
-#include <algorithm>
+#include <bits/stdc++.h>
 using namespace std;
 
 int my_gcd(int a, int b) {
